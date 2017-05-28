@@ -3,13 +3,13 @@
 
 ## https://github.com/rstudio/blogdown
 
-devtools::install_github('rstudio/blogdown')
+#devtools::install_github('rstudio/blogdown')
 
 ##to install Hugo.
-blogdown::install_hugo()
+#blogdown::install_hugo()
 
 #Once you have installed Hugo, you may create a new site via
-blogdown::new_site()
+#blogdown::new_site()
 
 ## Build the side
 blogdown::build_site()
