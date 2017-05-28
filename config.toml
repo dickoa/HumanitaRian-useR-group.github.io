@@ -21,7 +21,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     url = "https://twitter.com/HumanitaRian-useR-group"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Community website for HumanitaRian Information Management Officers using R statistical language."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
@@ -34,7 +34,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
     [params.logo]
     url = "logo.png"
-    width = 100
-    height = 285
-    alt = "Logo"
+    width = 286
+    height = 100
+    alt = "HumanitaRian useR group"
 

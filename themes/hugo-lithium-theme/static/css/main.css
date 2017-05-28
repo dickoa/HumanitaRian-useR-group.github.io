@@ -60,7 +60,7 @@ code {
 
 .nav-logo img {
   display: block;
-  max-height: 40px;
+  max-height: 100px;
   width: auto;
   border-radius: 50%;
 }
@@ -256,7 +256,7 @@ code {
   }
 
   .nav-logo img {
-    max-height: 50px;
+    max-height: 100px;
   }
 
   .nav-links {
