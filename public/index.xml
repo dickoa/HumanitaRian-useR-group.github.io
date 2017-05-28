@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>HumanitaRian useR group</title>
     <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on HumanitaRian useR group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2017 21:48:51 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 28 May 2017 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This site hosts information related to the HumanitaRian-useR-group. This group is open to Humanitarian Information Management officers.
+We also have a skype group @ https://join.skype.com/qYBKC5q3wKp4.
+The idea is to:
+ organise regular webinars using different format: Suggestions: panel discussion, one long in-depth talk, a couple of shorter talks, open-mic &amp;ldquo;quickfire&amp;rdquo; talks.
+ share and disseminate some interesting approaches.
+  </description>
+    </item>
+    
+    <item>
+      <title>Post Title</title>
+      <link>/2017/05/28/post-title/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/05/28/post-title/</guid>
+      <description>This is a test</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
@@ -19,15 +42,6 @@
       <guid>/2016/12/30/a-plain-markdown-post/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
     <item>
@@ -47,7 +61,34 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       
       <guid>/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>First blog.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/</guid>
+      <description>A Plain Markdown Post       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/</guid>
+      <description>Post Title       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .</description>
     </item>
     
   </channel>

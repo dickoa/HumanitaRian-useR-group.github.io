@@ -23,3 +23,8 @@ blogdown::new_post(test, kind = "default", open = interactive(),
                    author = getOption("blogdown.author"), categories = NULL,
                    tags = NULL, date = Sys.Date(), file = NULL, slug = NULL,
                    subdir = getOption("blogdown.subdir", "post"), rmd = getOption("blogdown.rmd",  FALSE))
+
+blogdown::new_post("Post Title", rmd = FALSE)
+
+blogdown::build_site()
+
