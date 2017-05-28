@@ -13,10 +13,10 @@
     
     <item>
       <title>How to make the most of our data?</title>
-      <link>https://humanitarian-user-group.github.io/public/2017/05/28/post-title/</link>
+      <link>https://humanitarian-user-group.github.io/public/post/post-title/</link>
       <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://humanitarian-user-group.github.io/public/2017/05/28/post-title/</guid>
+      <guid>https://humanitarian-user-group.github.io/public/post/post-title/</guid>
       <description>AirBnB particpated to the recent R user conference in NYC in May 2017.
 The video posted here and this blog post presents 3 important principles:
  Develop packages to mainstream analysis workflow. In our a context a potential illustration could be KoboloadeR
@@ -26,20 +26,20 @@ The video posted here and this blog post presents 3 important principles:
     
     <item>
       <title>A Plain Markdown Post</title>
-      <link>https://humanitarian-user-group.github.io/public/2016/12/30/a-plain-markdown-post/</link>
+      <link>https://humanitarian-user-group.github.io/public/post/2016-12-30-hello-markdown/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
       
-      <guid>https://humanitarian-user-group.github.io/public/2016/12/30/a-plain-markdown-post/</guid>
+      <guid>https://humanitarian-user-group.github.io/public/post/2016-12-30-hello-markdown/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://humanitarian-user-group.github.io/public/2015/07/23/hello-r-markdown/</link>
+      <link>https://humanitarian-user-group.github.io/public/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://humanitarian-user-group.github.io/public/2015/07/23/hello-r-markdown/</guid>
+      <guid>https://humanitarian-user-group.github.io/public/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -47,10 +47,10 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Humanitarian Data Scientist</title>
-      <link>https://humanitarian-user-group.github.io/public/2015/01/01/humanitarian-data-scientist/</link>
+      <link>https://humanitarian-user-group.github.io/public/post/2015-01-01-humanitarian-data-scientist/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       
-      <guid>https://humanitarian-user-group.github.io/public/2015/01/01/humanitarian-data-scientist/</guid>
+      <guid>https://humanitarian-user-group.github.io/public/post/2015-01-01-humanitarian-data-scientist/</guid>
       <description>Andrej verity form OCHA has published a post on Humanitarian Data Scientist.
 &amp;ldquo;with increasing data availability in our emergencies, IMOs would need to be ready to leverage it in creative ways.&amp;rdquo;</description>
     </item>
