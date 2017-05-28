@@ -15,6 +15,6 @@ The video  posted [here](https://www.youtube.com/watch?v=70luTZU-D3E) and this [
  
  * Promote education & contributions within the organisation
 
-[![AirbNB](https://cdn-images-1.medium.com/max/800/1*jw1uy30AcPEUUcNFIqY0Hw.png)]
+![AirbNB](https://cdn-images-1.medium.com/max/800/1*jw1uy30AcPEUUcNFIqY0Hw.png)
 
  * Ensure reproducibility. 
