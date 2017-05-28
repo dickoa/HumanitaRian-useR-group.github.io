@@ -12,9 +12,9 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 
 [params]
-    description = "Community website for HumanitaRian Information Management Officers using R statistical language."
+    description = "Community website for Information Management Officers using R statistical language."
     subtitle = "Find reproducible ideas"
-    brand = "Blackburn"
+    brand = "HumanitaRian"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
