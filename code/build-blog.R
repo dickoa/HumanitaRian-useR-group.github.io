@@ -12,6 +12,9 @@ blogdown::install_hugo()
 blogdown::new_site()
 
 ## Build the side
+blogdown::build_site()
+
+## Servethe side
 blogdown::serve_site()
 
 ## Install a theme;
@@ -26,5 +29,5 @@ blogdown::new_post(test, kind = "default", open = interactive(),
 
 blogdown::new_post("Post Title", rmd = FALSE)
 
-blogdown::build_site()
+
 
